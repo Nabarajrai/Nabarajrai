@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Nabaraj and I'm a Frontend developer, from Nepal</p>
 
 ###
 
